@@ -1,0 +1,17 @@
+{
+  "name": "jest-testing-boilerplate",
+  "description": "Just a Jest getting started scaffolding to play with",
+  "version": "1.0.0",
+  "repository": "git@github.com:danifornells/jest-testing-boilerplate.git",
+  "author": "Daniel Fornells <daniel.garcia.fornells@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12",
+    "@babel/preset-env": "^7.12",
+    "babel-jest": "^26.6",
+    "jest": "^26.6"
+  }
+}
